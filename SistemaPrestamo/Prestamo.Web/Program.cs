@@ -6,11 +6,11 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.Configure<ConnectionStrings>(builder.Configuration.GetSection("ConnectionStrings"));
-builder.Services.AddSingleton<MonedaData>();
 builder.Services.AddSingleton<ClienteData>();
-builder.Services.AddSingleton<PrestamoData>();
 builder.Services.AddSingleton<ResumenData>();
 builder.Services.AddSingleton<UsuarioData>();
+builder.Services.AddSingleton<PrestamoData>();
+builder.Services.AddSingleton<MonedaData>();
 
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
     .AddCookie(option =>
