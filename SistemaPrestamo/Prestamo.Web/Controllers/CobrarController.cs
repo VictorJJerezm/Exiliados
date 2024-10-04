@@ -20,9 +20,9 @@ namespace Prestamo.Web.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> PagarCuotas(int idPrestamo,string nroCuotasPagadas)
+        public async Task<IActionResult> PagarCuotas(int idPrestamo, string nroCuotasPagadas)
         {
-            string respuesta = await _prestamoData.PagarCuotas(idPrestamo,nroCuotasPagadas);
+            string respuesta = await _prestamoData.PagarCuotas(idPrestamo, nroCuotasPagadas);
             return StatusCode(StatusCodes.Status200OK, new { data = respuesta });
         }
     }
