@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
 
 
 $("#btnBuscar").on("click", function () {
-    
+
     if ($("#txtNroDocumento").val() == "") {
         Swal.fire({
             title: "Ups!",
@@ -92,18 +92,18 @@ $("#btnBuscar").on("click", function () {
             icon: "warning"
         });
     })
-  
+
 })
 
 $("#btnCalcular").on("click", function () {
     const inputsPrestamo = $(".data-prestamo").serializeArray();
     const inputText = inputsPrestamo.find((e) => e.value == "");
-    
-    
+
+
     if (inputText != undefined) {
         Swal.fire({
             title: "Error!",
-            text: `Debe completar el campo: ${inputText.name.replaceAll("_"," ")}`,
+            text: `Debe completar el campo: ${inputText.name.replaceAll("_", " ")}`,
             icon: "warning"
         });
         return
@@ -136,7 +136,7 @@ $("#btnRegistrar").on("click", function () {
             return
         }
     }
-   
+
 
     if ($("#txtMontoTotal").val() == "") {
         Swal.fire({
@@ -155,7 +155,7 @@ $("#btnRegistrar").on("click", function () {
             Nombre: $("#txtNombre").val(),
             Apellido: $("#txtApellido").val(),
             Correo: $("#txtCorreo").val(),
-            Telefono: $("#txtTelefono").val() 
+            Telefono: $("#txtTelefono").val()
         },
         Moneda: {
             IdMoneda: $("#cboTipoMoneda").val()
@@ -205,7 +205,3 @@ $("#btnRegistrar").on("click", function () {
         });
     })
 })
-
-
-
-

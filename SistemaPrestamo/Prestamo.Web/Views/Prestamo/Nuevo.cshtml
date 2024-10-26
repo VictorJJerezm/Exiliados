@@ -10,6 +10,8 @@
                 <h5 class="card-title me-auto">Nuevo Prestamo</h5>
                 <a class="btn btn-dark" asp-controller="Prestamo" asp-action="Index"><i class="fa-solid fa-rotate-left"></i> Volver</a>
                 <button class="btn btn-primary ms-2" type="button" id="btnRegistrar"><i class="fa-solid fa-check"></i> Registrar</button>
+                <button class="btn btn-success ms-2" type="button" id="btnGenerarContrato" onclick="generarContrato()"><i class="fa-solid fa-file-pdf"></i> Generar Contrato</button>
+
             </div>
         </div>
     </div>
@@ -66,8 +68,8 @@
                             <label for="txtMontoPrestamo" class="form-label">Monto Prestamo:</label>
                             <input type="number" class="form-control data-prestamo" id="txtMontoPrestamo" name="Monto_Prestamo" min="1" autocomplete="off">
                         </div>
-                       
-                    </div>  
+
+                    </div>
                     <div class="col-sm-6">
                         <div class="mb-3">
                             <label for="txtInteres" class="form-label">Interes %:</label>
@@ -92,7 +94,7 @@
                                 <option value="Mensual">Mensual</option>
                             </select>
                         </div>
-                    </div> 
+                    </div>
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
@@ -148,6 +150,62 @@
 </div>
 
 @section Scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
     <script src="~/lib/moment/moment.min.js"></script>
     <script src="~/views/nuevoprestamo.js"></script>
+
+    <script>
+        function generarContrato() {
+            const montoPrestamo = document.getElementById('txtMontoPrestamo').value;
+            const interes = document.getElementById('txtInteres').value;
+            const cuotas = document.getElementById('txtNroCuotas').value;
+            const formaPago = document.getElementById('cboFormaPago').value;
+            const tipoMoneda = document.getElementById('cboTipoMoneda').value;
+            const fechaInicio = document.getElementById('txtFechaInicio').value;
+
+            const frecuenciaPago = formaPago === 'Diario' ? 1 :
+                formaPago === 'Semanal' ? 7 :
+                    formaPago === 'Quincenal' ? 15 :
+                        formaPago === 'Mensual' ? 30 : 0;
+
+            const fechaVencimiento = moment(fechaInicio).add(frecuenciaPago * cuotas, 'days').format('YYYY-MM-DD');
+
+            const contrato =
+                `CONTRATO DE PRÉSTAMO\n\n` +
+                `Se celebra el presente contrato bajo los siguientes términos y condiciones:\n\n` +
+                `1. Monto del Préstamo:\n` +
+                `   El Prestamista otorga al Prestatario un préstamo por la suma de Q${montoPrestamo}.\n\n` +
+                `2. Interés:\n` +
+                `   El préstamo estará sujeto a un interés del ${interes}%. \n\n` +
+                `3. Número de Cuotas:\n` +
+                `   El Prestatario se compromete a devolver el monto total en ${cuotas} cuota(s).\n\n` +
+                `4. Forma de Pago:\n` +
+                `   Los pagos se realizarán de la siguiente manera: ${formaPago}.\n\n` +
+                `5. Tipo de Moneda:\n` +
+                `   El préstamo se realizará en ${tipoMoneda}.\n\n` +
+                `6. Fecha de Inicio:\n` +
+                `   El préstamo comenzará a partir de la fecha ${fechaInicio}.\n\n` +
+                `7. Vencimiento del Préstamo:\n` +
+                `   La última cuota deberá pagarse a más tardar el ${fechaVencimiento}.\n\n` +
+                `8. Consecuencias por Incumplimiento:\n` +
+                `   En caso de que el Prestatario no cumpla con los plazos de pago, se aplicarán penalidades \n\n` +
+                `   de acuerdo a lo siguiente: _____________________________________________________________.\n\n` +
+                `Las partes firman este contrato en señal de acuerdo en la fecha: ${fechaInicio}.\n\n` +
+               
+
+
+
+
+                
+              ` _____________________________         _____________________________   \n` +
+                 `Firma del Prestamista                           Firma del Prestatario        \n`;
+
+            const doc = new jspdf.jsPDF();
+            doc.setFontSize(10); // Establece el tamaño de la fuente a 10
+            doc.text(contrato, 20, 20);
+            doc.save('contrato_prestamo.pdf');
+            const lines = doc.splitTextToSize(contrato, 180); // 180 es el ancho máximo en milímetros
+            
+        }
+    </script>
 }

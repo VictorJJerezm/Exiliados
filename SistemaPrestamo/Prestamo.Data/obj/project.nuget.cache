@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tJ3mWm+nLDg=",
+  "dgSpecHash": "hyavoNxQZqw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\Universidad\\ANALISIS DE SISTEMAS II\\Sistema\\SistemaPrestamo\\Prestamo.Data\\Prestamo.Data.csproj",
+  "projectFilePath": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Data\\Prestamo.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell Latitude 2 in 1\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Dell Latitude 2 in 1\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
