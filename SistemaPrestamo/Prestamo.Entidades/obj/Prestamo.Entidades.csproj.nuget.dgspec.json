@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\Universidad\\ANALISIS DE SISTEMAS II\\Sistema\\SistemaPrestamo\\Prestamo.Entidades\\Prestamo.Entidades.csproj": {}
+    "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Entidades\\Prestamo.Entidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\Universidad\\ANALISIS DE SISTEMAS II\\Sistema\\SistemaPrestamo\\Prestamo.Entidades\\Prestamo.Entidades.csproj": {
+    "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Entidades\\Prestamo.Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\Universidad\\ANALISIS DE SISTEMAS II\\Sistema\\SistemaPrestamo\\Prestamo.Entidades\\Prestamo.Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Entidades\\Prestamo.Entidades.csproj",
         "projectName": "Prestamo.Entidades",
-        "projectPath": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\Universidad\\ANALISIS DE SISTEMAS II\\Sistema\\SistemaPrestamo\\Prestamo.Entidades\\Prestamo.Entidades.csproj",
+        "projectPath": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Entidades\\Prestamo.Entidades.csproj",
         "packagesPath": "C:\\Users\\Dell Latitude 2 in 1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\Universidad\\ANALISIS DE SISTEMAS II\\Sistema\\SistemaPrestamo\\Prestamo.Entidades\\obj\\",
+        "outputPath": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell Latitude 2 in 1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -367,12 +367,18 @@
           "System.Data.SqlClient": "4.8.6"
         },
         "runtime": {
-          "Prestamo.Data.dll": {}
+          "Prestamo.Data.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Prestamo.Entidades/1.0.0": {
         "runtime": {
-          "Prestamo.Entidades.dll": {}
+          "Prestamo.Entidades.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

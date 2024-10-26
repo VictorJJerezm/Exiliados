@@ -11241,3 +11241,241 @@ body {
   font-size: 0.75rem;
   border-radius: 0.375rem !important;
 }
+
+
+/* Estilos por defecto (modo claro) */
+body {
+    background-color: #ffffff;
+    color: #000000;
+    transition: background-color 0.4s, color 0.4s;
+}
+
+.navbar, .sb-sidenav, footer {
+    background-color: #e3f2fd; /* Color del modo claro */
+    transition: background-color 0.4s;
+}
+/* Estilo para el modo claro */
+table {
+    color: #000; /* Color de texto para modo claro */
+}
+
+/* Estilo para el modo oscuro */
+.dark-mode table {
+    color: #000; /* Mantener el color de texto en modo oscuro */
+}
+
+/* Estilos para el modo oscuro */
+body.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+    body.dark-mode .navbar,
+    body.dark-mode .sb-sidenav,
+    body.dark-mode footer {
+        background-color: #1e1e1e; /* Color del modo oscuro */
+    }
+
+    body.dark-mode button {
+        background-color: #333;
+        color: #fff;
+        border: none;
+        padding: 10px 20px;
+        cursor: pointer;
+    }
+
+        body.dark-mode button:hover {
+            background-color: #444;
+        }
+/* Estilos para el modo oscuro */
+.dark-mode {
+    background-color: #121212; /* Color de fondo del modo oscuro */
+    color: #ffffff; /* Color de texto por defecto */
+}
+
+    /* Cambiar el color del contenedor de la tabla */
+    .dark-mode table {
+        background-color: #1e1e1e; /* Color de fondo del contenedor de la tabla */
+        border: 1px solid #333; /* Color del borde de la tabla */
+    }
+
+    /* Mantener el color de los títulos y encabezados de las tablas */
+    .dark-mode th,
+    .dark-mode thead th {
+        color: #000000; /* Color de texto para los encabezados */
+       
+    }
+
+    .dark-mode td {
+        color: #ffffff; /* Color de texto en las celdas */
+    }
+
+    /* Color del borde de las celdas */
+    .dark-mode td,
+    .dark-mode th {
+        border: 1px solid #333; /* Color del borde de las celdas */
+    }
+
+    /* Cambiar el color de las tarjetas en modo oscuro */
+    .dark-mode .card {
+        background-color: #1e1e1e; /* Color de fondo de la tarjeta */
+        border: 1px solid #333; /* Color del borde de la tarjeta */
+        color: #ffffff; /* Color del texto en la tarjeta */
+    }
+
+    /* Si deseas mantener el color de los encabezados de las tarjetas */
+    .dark-mode .card-header {
+        background-color: #333; /* Color de fondo del encabezado de la tarjeta */
+        color: #ffffff; /* Color del texto del encabezado de la tarjeta */
+    }
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #343a40;
+}
+
+.navbar {
+    border-bottom: 1px solid #dee2e6;
+}
+
+.sb-sidenav {
+    background-color: #e9ecef;
+}
+
+/* Estilo del contenedor del calendario */
+#datetime-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.calendar-day {
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    text-align: center;
+    line-height: 40px;
+    margin: 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: #ffffff; /* Color de fondo por defecto */
+    border: 1px solid #dee2e6; /* Bordes */
+}
+
+    /* Día seleccionado */
+    .calendar-day.selected {
+        background-color: #007bff; /* Color de fondo al seleccionar */
+        color: white; /* Color del texto */
+    }
+
+/* Modo oscuro */
+.dark-mode {
+    background-color: #343a40; /* Color de fondo oscuro */
+    color: #f8f9fa; /* Color del texto claro */
+}
+
+    .dark-mode .navbar {
+        background-color: #495057; /* Color del navbar en modo oscuro */
+    }
+
+    .dark-mode .sb-sidenav {
+        background-color: #495057; /* Color de la barra lateral en modo oscuro */
+    }
+
+/* Estilos para loading overlay */
+.loading-overlay {
+    background-color: rgba(0, 0, 0, 0.5); /* Fondo semi-transparente */
+    color: white; /* Color del texto */
+}
+
+/* Estilo del botón */
+.btn-secondary {
+    margin: 10px;
+}
+
+/* Estilos para el footer */
+footer {
+    background-color: #e3f2fd;
+}
+/* Estilo para el reloj en la esquina superior derecha */
+#reloj {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #000;
+    background-color: rgba(255, 255, 255, 0.8); /* Fondo blanco semitransparente */
+    padding: 5px 10px;
+    border-radius: 8px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    z-index: 1000; /* Para que siempre esté visible */
+}
+
+/* Estilo para el input de la fecha */
+#fecha {
+    position: relative;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 200px;
+}
+
+/* Estilo para el mini calendario */
+.flatpickr-calendar {
+    position: absolute;
+    top: 100%; /* Posición relativa al input */
+    left: 0;
+    z-index: 999; /* Asegurar que esté encima de otros elementos */
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    padding: 10px;
+}
+
+
+.notes-section {
+    margin-top: 20px;
+}
+
+#notes-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.note {
+    width: 150px;
+    height: 150px;
+    background-color: #ffeb3b;
+    padding: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    position: relative;
+    font-family: 'Arial', sans-serif;
+}
+
+    .note textarea {
+        width: 100%;
+        height: 100px;
+        background: transparent;
+        border: none;
+        resize: none;
+    }
+
+    .note .edit-btn,
+    .note .delete-btn {
+        position: absolute;
+        top: 5px;
+        right: 5px;
+        background-color: transparent;
+        border: none;
+        cursor: pointer;
+        font-size: 12px;
+        padding: 2px;
+    }
+
+    .note .delete-btn {
+        right: 40px;
+    }

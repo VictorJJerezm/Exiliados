@@ -45,7 +45,7 @@ namespace Prestamo.Web.Controllers
         [HttpGet]
         public async Task<IActionResult> ObtenerPrestamos(int IdPrestamo, string NroDocumento)
         {
-            List<Prestamo.Entidades.Prestamo> objeto = await _prestamoData.ObtenerPrestamos(IdPrestamo,NroDocumento == null ? "": NroDocumento);
+            List<Prestamo.Entidades.Prestamo> objeto = await _prestamoData.ObtenerPrestamos(IdPrestamo, NroDocumento == null ? "" : NroDocumento);
             return StatusCode(StatusCodes.Status200OK, new { data = objeto });
         }
 
@@ -214,7 +214,7 @@ namespace Prestamo.Web.Controllers
 
                                 foreach (var item in objeto.PrestamoDetalle)
                                 {
-                                  
+
 
                                     tabla.Cell().Border(0.5f).BorderColor("#D9D9D9")
                                         .Padding(4).Text(item.NroCuota.ToString()).FontSize(12);

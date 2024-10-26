@@ -1,0 +1,479 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{888097C3-0277-479E-9C09-88A8C5EB3656}|Prestamo.Web\\Prestamo.Web.csproj|c:\\users\\dell latitude 2 in 1\\desktop\\118_sistemaprestamo_net8_ado.net_ncapas-main\\118_sistemaprestamo_net8_ado.net_ncapas-main\\sistemaprestamo\\prestamo.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{888097C3-0277-479E-9C09-88A8C5EB3656}|Prestamo.Web\\Prestamo.Web.csproj|solutionrelative:prestamo.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888097C3-0277-479E-9C09-88A8C5EB3656}|Prestamo.Web\\Prestamo.Web.csproj|c:\\users\\dell latitude 2 in 1\\desktop\\118_sistemaprestamo_net8_ado.net_ncapas-main\\118_sistemaprestamo_net8_ado.net_ncapas-main\\sistemaprestamo\\prestamo.web\\wwwroot\\views\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{888097C3-0277-479E-9C09-88A8C5EB3656}|Prestamo.Web\\Prestamo.Web.csproj|solutionrelative:prestamo.web\\wwwroot\\views\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888097C3-0277-479E-9C09-88A8C5EB3656}|Prestamo.Web\\Prestamo.Web.csproj|c:\\users\\dell latitude 2 in 1\\desktop\\118_sistemaprestamo_net8_ado.net_ncapas-main\\118_sistemaprestamo_net8_ado.net_ncapas-main\\sistemaprestamo\\prestamo.web\\views\\prestamo\\nuevo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{888097C3-0277-479E-9C09-88A8C5EB3656}|Prestamo.Web\\Prestamo.Web.csproj|solutionrelative:prestamo.web\\views\\prestamo\\nuevo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888097C3-0277-479E-9C09-88A8C5EB3656}|Prestamo.Web\\Prestamo.Web.csproj|c:\\users\\dell latitude 2 in 1\\desktop\\118_sistemaprestamo_net8_ado.net_ncapas-main\\118_sistemaprestamo_net8_ado.net_ncapas-main\\sistemaprestamo\\prestamo.web\\wwwroot\\views\\nuevoprestamo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{888097C3-0277-479E-9C09-88A8C5EB3656}|Prestamo.Web\\Prestamo.Web.csproj|solutionrelative:prestamo.web\\wwwroot\\views\\nuevoprestamo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888097C3-0277-479E-9C09-88A8C5EB3656}|Prestamo.Web\\Prestamo.Web.csproj|c:\\users\\dell latitude 2 in 1\\desktop\\118_sistemaprestamo_net8_ado.net_ncapas-main\\118_sistemaprestamo_net8_ado.net_ncapas-main\\sistemaprestamo\\prestamo.web\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{888097C3-0277-479E-9C09-88A8C5EB3656}|Prestamo.Web\\Prestamo.Web.csproj|solutionrelative:prestamo.web\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888097C3-0277-479E-9C09-88A8C5EB3656}|Prestamo.Web\\Prestamo.Web.csproj|c:\\users\\dell latitude 2 in 1\\desktop\\118_sistemaprestamo_net8_ado.net_ncapas-main\\118_sistemaprestamo_net8_ado.net_ncapas-main\\sistemaprestamo\\prestamo.web\\controllers\\prestamocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888097C3-0277-479E-9C09-88A8C5EB3656}|Prestamo.Web\\Prestamo.Web.csproj|solutionrelative:prestamo.web\\controllers\\prestamocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888097C3-0277-479E-9C09-88A8C5EB3656}|Prestamo.Web\\Prestamo.Web.csproj|c:\\users\\dell latitude 2 in 1\\desktop\\118_sistemaprestamo_net8_ado.net_ncapas-main\\118_sistemaprestamo_net8_ado.net_ncapas-main\\sistemaprestamo\\prestamo.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888097C3-0277-479E-9C09-88A8C5EB3656}|Prestamo.Web\\Prestamo.Web.csproj|solutionrelative:prestamo.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888097C3-0277-479E-9C09-88A8C5EB3656}|Prestamo.Web\\Prestamo.Web.csproj|c:\\users\\dell latitude 2 in 1\\desktop\\118_sistemaprestamo_net8_ado.net_ncapas-main\\118_sistemaprestamo_net8_ado.net_ncapas-main\\sistemaprestamo\\prestamo.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{888097C3-0277-479E-9C09-88A8C5EB3656}|Prestamo.Web\\Prestamo.Web.csproj|solutionrelative:prestamo.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52D9AA1-7170-4652-90F3-43A462D84C8C}|Prestamo.Entidades\\Prestamo.Entidades.csproj|c:\\users\\dell latitude 2 in 1\\desktop\\118_sistemaprestamo_net8_ado.net_ncapas-main\\118_sistemaprestamo_net8_ado.net_ncapas-main\\sistemaprestamo\\prestamo.entidades\\resumen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52D9AA1-7170-4652-90F3-43A462D84C8C}|Prestamo.Entidades\\Prestamo.Entidades.csproj|solutionrelative:prestamo.entidades\\resumen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBDC6D1-4221-4318-832F-9F57F187F834}|Prestamo.Data\\Prestamo.Data.csproj|c:\\users\\dell latitude 2 in 1\\desktop\\118_sistemaprestamo_net8_ado.net_ncapas-main\\118_sistemaprestamo_net8_ado.net_ncapas-main\\sistemaprestamo\\prestamo.data\\prestamodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DBDC6D1-4221-4318-832F-9F57F187F834}|Prestamo.Data\\Prestamo.Data.csproj|solutionrelative:prestamo.data\\prestamodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBDC6D1-4221-4318-832F-9F57F187F834}|Prestamo.Data\\Prestamo.Data.csproj|c:\\users\\dell latitude 2 in 1\\desktop\\118_sistemaprestamo_net8_ado.net_ncapas-main\\118_sistemaprestamo_net8_ado.net_ncapas-main\\sistemaprestamo\\prestamo.data\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DBDC6D1-4221-4318-832F-9F57F187F834}|Prestamo.Data\\Prestamo.Data.csproj|solutionrelative:prestamo.data\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBDC6D1-4221-4318-832F-9F57F187F834}|Prestamo.Data\\Prestamo.Data.csproj|c:\\users\\dell latitude 2 in 1\\desktop\\118_sistemaprestamo_net8_ado.net_ncapas-main\\118_sistemaprestamo_net8_ado.net_ncapas-main\\sistemaprestamo\\prestamo.data\\prestamo.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1DBDC6D1-4221-4318-832F-9F57F187F834}|Prestamo.Data\\Prestamo.Data.csproj|solutionrelative:prestamo.data\\prestamo.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52D9AA1-7170-4652-90F3-43A462D84C8C}|Prestamo.Entidades\\Prestamo.Entidades.csproj|c:\\users\\dell latitude 2 in 1\\desktop\\118_sistemaprestamo_net8_ado.net_ncapas-main\\118_sistemaprestamo_net8_ado.net_ncapas-main\\sistemaprestamo\\prestamo.entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52D9AA1-7170-4652-90F3-43A462D84C8C}|Prestamo.Entidades\\Prestamo.Entidades.csproj|solutionrelative:prestamo.entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52D9AA1-7170-4652-90F3-43A462D84C8C}|Prestamo.Entidades\\Prestamo.Entidades.csproj|c:\\users\\dell latitude 2 in 1\\desktop\\118_sistemaprestamo_net8_ado.net_ncapas-main\\118_sistemaprestamo_net8_ado.net_ncapas-main\\sistemaprestamo\\prestamo.entidades\\prestamo.entidades.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E52D9AA1-7170-4652-90F3-43A462D84C8C}|Prestamo.Entidades\\Prestamo.Entidades.csproj|solutionrelative:prestamo.entidades\\prestamo.entidades.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBDC6D1-4221-4318-832F-9F57F187F834}|Prestamo.Data\\Prestamo.Data.csproj|c:\\users\\dell latitude 2 in 1\\desktop\\118_sistemaprestamo_net8_ado.net_ncapas-main\\118_sistemaprestamo_net8_ado.net_ncapas-main\\sistemaprestamo\\prestamo.data\\resumendata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DBDC6D1-4221-4318-832F-9F57F187F834}|Prestamo.Data\\Prestamo.Data.csproj|solutionrelative:prestamo.data\\resumendata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBDC6D1-4221-4318-832F-9F57F187F834}|Prestamo.Data\\Prestamo.Data.csproj|c:\\users\\dell latitude 2 in 1\\desktop\\118_sistemaprestamo_net8_ado.net_ncapas-main\\118_sistemaprestamo_net8_ado.net_ncapas-main\\sistemaprestamo\\prestamo.data\\monedadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DBDC6D1-4221-4318-832F-9F57F187F834}|Prestamo.Data\\Prestamo.Data.csproj|solutionrelative:prestamo.data\\monedadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888097C3-0277-479E-9C09-88A8C5EB3656}|Prestamo.Web\\Prestamo.Web.csproj|c:\\users\\dell latitude 2 in 1\\desktop\\118_sistemaprestamo_net8_ado.net_ncapas-main\\118_sistemaprestamo_net8_ado.net_ncapas-main\\sistemaprestamo\\prestamo.web\\wwwroot\\views\\cobrar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{888097C3-0277-479E-9C09-88A8C5EB3656}|Prestamo.Web\\Prestamo.Web.csproj|solutionrelative:prestamo.web\\wwwroot\\views\\cobrar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBDC6D1-4221-4318-832F-9F57F187F834}|Prestamo.Data\\Prestamo.Data.csproj|c:\\users\\dell latitude 2 in 1\\desktop\\118_sistemaprestamo_net8_ado.net_ncapas-main\\118_sistemaprestamo_net8_ado.net_ncapas-main\\sistemaprestamo\\prestamo.data\\usuariodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DBDC6D1-4221-4318-832F-9F57F187F834}|Prestamo.Data\\Prestamo.Data.csproj|solutionrelative:prestamo.data\\usuariodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBDC6D1-4221-4318-832F-9F57F187F834}|Prestamo.Data\\Prestamo.Data.csproj|c:\\users\\dell latitude 2 in 1\\desktop\\118_sistemaprestamo_net8_ado.net_ncapas-main\\118_sistemaprestamo_net8_ado.net_ncapas-main\\sistemaprestamo\\prestamo.data\\clientedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DBDC6D1-4221-4318-832F-9F57F187F834}|Prestamo.Data\\Prestamo.Data.csproj|solutionrelative:prestamo.data\\clientedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888097C3-0277-479E-9C09-88A8C5EB3656}|Prestamo.Web\\Prestamo.Web.csproj|c:\\users\\dell latitude 2 in 1\\desktop\\118_sistemaprestamo_net8_ado.net_ncapas-main\\118_sistemaprestamo_net8_ado.net_ncapas-main\\sistemaprestamo\\prestamo.web\\views\\cobrar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{888097C3-0277-479E-9C09-88A8C5EB3656}|Prestamo.Web\\Prestamo.Web.csproj|solutionrelative:prestamo.web\\views\\cobrar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888097C3-0277-479E-9C09-88A8C5EB3656}|Prestamo.Web\\Prestamo.Web.csproj|c:\\users\\dell latitude 2 in 1\\desktop\\118_sistemaprestamo_net8_ado.net_ncapas-main\\118_sistemaprestamo_net8_ado.net_ncapas-main\\sistemaprestamo\\prestamo.web\\wwwroot\\views\\cliente.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{888097C3-0277-479E-9C09-88A8C5EB3656}|Prestamo.Web\\Prestamo.Web.csproj|solutionrelative:prestamo.web\\wwwroot\\views\\cliente.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888097C3-0277-479E-9C09-88A8C5EB3656}|Prestamo.Web\\Prestamo.Web.csproj|c:\\users\\dell latitude 2 in 1\\desktop\\118_sistemaprestamo_net8_ado.net_ncapas-main\\118_sistemaprestamo_net8_ado.net_ncapas-main\\sistemaprestamo\\prestamo.web\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{888097C3-0277-479E-9C09-88A8C5EB3656}|Prestamo.Web\\Prestamo.Web.csproj|solutionrelative:prestamo.web\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888097C3-0277-479E-9C09-88A8C5EB3656}|Prestamo.Web\\Prestamo.Web.csproj|c:\\users\\dell latitude 2 in 1\\desktop\\118_sistemaprestamo_net8_ado.net_ncapas-main\\118_sistemaprestamo_net8_ado.net_ncapas-main\\sistemaprestamo\\prestamo.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{888097C3-0277-479E-9C09-88A8C5EB3656}|Prestamo.Web\\Prestamo.Web.csproj|solutionrelative:prestamo.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888097C3-0277-479E-9C09-88A8C5EB3656}|Prestamo.Web\\Prestamo.Web.csproj|c:\\users\\dell latitude 2 in 1\\desktop\\118_sistemaprestamo_net8_ado.net_ncapas-main\\118_sistemaprestamo_net8_ado.net_ncapas-main\\sistemaprestamo\\prestamo.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{888097C3-0277-479E-9C09-88A8C5EB3656}|Prestamo.Web\\Prestamo.Web.csproj|solutionrelative:prestamo.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888097C3-0277-479E-9C09-88A8C5EB3656}|Prestamo.Web\\Prestamo.Web.csproj|c:\\users\\dell latitude 2 in 1\\desktop\\118_sistemaprestamo_net8_ado.net_ncapas-main\\118_sistemaprestamo_net8_ado.net_ncapas-main\\sistemaprestamo\\prestamo.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{888097C3-0277-479E-9C09-88A8C5EB3656}|Prestamo.Web\\Prestamo.Web.csproj|solutionrelative:prestamo.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888097C3-0277-479E-9C09-88A8C5EB3656}|Prestamo.Web\\Prestamo.Web.csproj|c:\\users\\dell latitude 2 in 1\\desktop\\118_sistemaprestamo_net8_ado.net_ncapas-main\\118_sistemaprestamo_net8_ado.net_ncapas-main\\sistemaprestamo\\prestamo.web\\views\\moneda\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{888097C3-0277-479E-9C09-88A8C5EB3656}|Prestamo.Web\\Prestamo.Web.csproj|solutionrelative:prestamo.web\\views\\moneda\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888097C3-0277-479E-9C09-88A8C5EB3656}|Prestamo.Web\\Prestamo.Web.csproj|c:\\users\\dell latitude 2 in 1\\desktop\\118_sistemaprestamo_net8_ado.net_ncapas-main\\118_sistemaprestamo_net8_ado.net_ncapas-main\\sistemaprestamo\\prestamo.web\\controllers\\monedacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888097C3-0277-479E-9C09-88A8C5EB3656}|Prestamo.Web\\Prestamo.Web.csproj|solutionrelative:prestamo.web\\controllers\\monedacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888097C3-0277-479E-9C09-88A8C5EB3656}|Prestamo.Web\\Prestamo.Web.csproj|c:\\users\\dell latitude 2 in 1\\desktop\\118_sistemaprestamo_net8_ado.net_ncapas-main\\118_sistemaprestamo_net8_ado.net_ncapas-main\\sistemaprestamo\\prestamo.web\\controllers\\cobrarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888097C3-0277-479E-9C09-88A8C5EB3656}|Prestamo.Web\\Prestamo.Web.csproj|solutionrelative:prestamo.web\\controllers\\cobrarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Prestamo.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Web\\Program.cs",
+              "RelativeToolTip": "Prestamo.Web\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T22:24:57.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Prestamo.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Web\\appsettings.json",
+              "RelativeToolTip": "Prestamo.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-21T08:16:20.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nuevo.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Web\\Views\\Prestamo\\Nuevo.cshtml",
+              "RelativeDocumentMoniker": "Prestamo.Web\\Views\\Prestamo\\Nuevo.cshtml",
+              "ToolTip": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Web\\Views\\Prestamo\\Nuevo.cshtml",
+              "RelativeToolTip": "Prestamo.Web\\Views\\Prestamo\\Nuevo.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T06:21:57.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PrestamoData.cs",
+              "DocumentMoniker": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Data\\PrestamoData.cs",
+              "RelativeDocumentMoniker": "Prestamo.Data\\PrestamoData.cs",
+              "ToolTip": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Data\\PrestamoData.cs",
+              "RelativeToolTip": "Prestamo.Data\\PrestamoData.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAkwJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T22:17:04.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Entidades\\Cliente.cs",
+              "RelativeDocumentMoniker": "Prestamo.Entidades\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Entidades\\Cliente.cs",
+              "RelativeToolTip": "Prestamo.Entidades\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T05:13:14.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Resumen.cs",
+              "DocumentMoniker": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Entidades\\Resumen.cs",
+              "RelativeDocumentMoniker": "Prestamo.Entidades\\Resumen.cs",
+              "ToolTip": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Entidades\\Resumen.cs",
+              "RelativeToolTip": "Prestamo.Entidades\\Resumen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T22:53:48.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PrestamoController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Web\\Controllers\\PrestamoController.cs",
+              "RelativeDocumentMoniker": "Prestamo.Web\\Controllers\\PrestamoController.cs",
+              "ToolTip": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Web\\Controllers\\PrestamoController.cs",
+              "RelativeToolTip": "Prestamo.Web\\Controllers\\PrestamoController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwCgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T22:46:46.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Prestamo.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Prestamo.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAOYAAAAAAAAAAAAAAPYAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T22:27:44.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Web\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "Prestamo.Web\\wwwroot\\css\\styles.css",
+              "ToolTip": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Web\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "Prestamo.Web\\wwwroot\\css\\styles.css",
+              "ViewState": "AgIAANwqAAAAAAAAAAAowNksAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-18T02:18:16.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.js",
+              "DocumentMoniker": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Web\\wwwroot\\views\\Home.js",
+              "RelativeDocumentMoniker": "Prestamo.Web\\wwwroot\\views\\Home.js",
+              "ToolTip": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Web\\wwwroot\\views\\Home.js",
+              "RelativeToolTip": "Prestamo.Web\\wwwroot\\views\\Home.js",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAiwIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-21T20:12:33.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NuevoPrestamo.js",
+              "DocumentMoniker": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Web\\wwwroot\\views\\NuevoPrestamo.js",
+              "RelativeDocumentMoniker": "Prestamo.Web\\wwwroot\\views\\NuevoPrestamo.js",
+              "ToolTip": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Web\\wwwroot\\views\\NuevoPrestamo.js",
+              "RelativeToolTip": "Prestamo.Web\\wwwroot\\views\\NuevoPrestamo.js",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAwwM8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-25T05:40:01.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConnectionStrings.cs",
+              "DocumentMoniker": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Data\\ConnectionStrings.cs",
+              "RelativeDocumentMoniker": "Prestamo.Data\\ConnectionStrings.cs",
+              "ToolTip": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Data\\ConnectionStrings.cs",
+              "RelativeToolTip": "Prestamo.Data\\ConnectionStrings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T08:17:47.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResumenData.cs",
+              "DocumentMoniker": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Data\\ResumenData.cs",
+              "RelativeDocumentMoniker": "Prestamo.Data\\ResumenData.cs",
+              "ToolTip": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Data\\ResumenData.cs",
+              "RelativeToolTip": "Prestamo.Data\\ResumenData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T08:17:46.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Prestamo.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Data\\Prestamo.Data.csproj",
+              "RelativeDocumentMoniker": "Prestamo.Data\\Prestamo.Data.csproj",
+              "ToolTip": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Data\\Prestamo.Data.csproj",
+              "RelativeToolTip": "Prestamo.Data\\Prestamo.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T18:41:09.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Prestamo.Entidades.csproj",
+              "DocumentMoniker": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Entidades\\Prestamo.Entidades.csproj",
+              "RelativeDocumentMoniker": "Prestamo.Entidades\\Prestamo.Entidades.csproj",
+              "ToolTip": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Entidades\\Prestamo.Entidades.csproj",
+              "RelativeToolTip": "Prestamo.Entidades\\Prestamo.Entidades.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T22:20:25.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Cobrar.js",
+              "DocumentMoniker": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Web\\wwwroot\\views\\Cobrar.js",
+              "RelativeDocumentMoniker": "Prestamo.Web\\wwwroot\\views\\Cobrar.js",
+              "ToolTip": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Web\\wwwroot\\views\\Cobrar.js",
+              "RelativeToolTip": "Prestamo.Web\\wwwroot\\views\\Cobrar.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-18T06:22:46.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClienteData.cs",
+              "DocumentMoniker": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Data\\ClienteData.cs",
+              "RelativeDocumentMoniker": "Prestamo.Data\\ClienteData.cs",
+              "ToolTip": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Data\\ClienteData.cs",
+              "RelativeToolTip": "Prestamo.Data\\ClienteData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T05:27:54.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MonedaData.cs",
+              "DocumentMoniker": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Data\\MonedaData.cs",
+              "RelativeDocumentMoniker": "Prestamo.Data\\MonedaData.cs",
+              "ToolTip": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Data\\MonedaData.cs",
+              "RelativeToolTip": "Prestamo.Data\\MonedaData.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T22:23:07.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UsuarioData.cs",
+              "DocumentMoniker": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Data\\UsuarioData.cs",
+              "RelativeDocumentMoniker": "Prestamo.Data\\UsuarioData.cs",
+              "ToolTip": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Data\\UsuarioData.cs",
+              "RelativeToolTip": "Prestamo.Data\\UsuarioData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T08:17:43.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Web\\Views\\Cobrar\\Index.cshtml",
+              "RelativeDocumentMoniker": "Prestamo.Web\\Views\\Cobrar\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Web\\Views\\Cobrar\\Index.cshtml",
+              "RelativeToolTip": "Prestamo.Web\\Views\\Cobrar\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABgAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T06:01:32.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Cliente.js",
+              "DocumentMoniker": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Web\\wwwroot\\views\\Cliente.js",
+              "RelativeDocumentMoniker": "Prestamo.Web\\wwwroot\\views\\Cliente.js",
+              "ToolTip": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Web\\wwwroot\\views\\Cliente.js",
+              "RelativeToolTip": "Prestamo.Web\\wwwroot\\views\\Cliente.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-18T05:21:30.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Prestamo.Web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Prestamo.Web\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T02:22:04.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Prestamo.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Prestamo.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T22:31:15.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Web\\Views\\Cliente\\Index.cshtml",
+              "RelativeDocumentMoniker": "Prestamo.Web\\Views\\Cliente\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Web\\Views\\Cliente\\Index.cshtml",
+              "RelativeToolTip": "Prestamo.Web\\Views\\Cliente\\Index.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAACgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T22:39:22.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Web\\Views\\Moneda\\Index.cshtml",
+              "RelativeDocumentMoniker": "Prestamo.Web\\Views\\Moneda\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Web\\Views\\Moneda\\Index.cshtml",
+              "RelativeToolTip": "Prestamo.Web\\Views\\Moneda\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T22:42:53.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "bootstrap.esm.js",
+              "DocumentMoniker": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+              "RelativeDocumentMoniker": "Prestamo.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+              "ToolTip": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+              "RelativeToolTip": "Prestamo.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+              "ViewState": "AgIAANcDAAAAAAAAAAAAwNsDAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-18T04:20:44.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MonedaController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Web\\Controllers\\MonedaController.cs",
+              "RelativeDocumentMoniker": "Prestamo.Web\\Controllers\\MonedaController.cs",
+              "ToolTip": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Web\\Controllers\\MonedaController.cs",
+              "RelativeToolTip": "Prestamo.Web\\Controllers\\MonedaController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T22:45:07.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CobrarController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Web\\Controllers\\CobrarController.cs",
+              "RelativeDocumentMoniker": "Prestamo.Web\\Controllers\\CobrarController.cs",
+              "ToolTip": "C:\\Users\\Dell Latitude 2 in 1\\Desktop\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\118_SistemaPrestamo_Net8_ADO.NET_NCapas-main\\SistemaPrestamo\\Prestamo.Web\\Controllers\\CobrarController.cs",
+              "RelativeToolTip": "Prestamo.Web\\Controllers\\CobrarController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:38:14.75Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

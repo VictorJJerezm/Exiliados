@@ -13,7 +13,7 @@ $("#btnBuscar").on("click", function () {
     if ($("#txtNroDocumento").val() == "") {
         Swal.fire({
             title: "Ups!",
-            text: "Debe ingresar un numero de documento.",
+            text: "Debe ingresar un numero de dpi.",
             icon: "warning"
         });
         return;
